@@ -46,7 +46,7 @@ Micro and small businesses that sell mainly through Facebook Live, starting with
 
 ## Our solution
 
-[Product name] follows a live order from the first comment to the packed parcel, in three steps.
+Suki.ai follows a live order from the first comment to the packed parcel, in three steps.
 
 **1. Capture orders during the live**
 - Reads the live comments from the seller's own Facebook Live, with her permission, through Meta's official API.
